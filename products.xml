@@ -1,0 +1,628 @@
+<?xml version="1.0"?>
+<XmlRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Products>
+    <KVProduct>
+      <ExternalId>PRD.006864</ExternalId>
+      <Name>Afdekplaat zijkant (netwerkaansluitingen)</Name>
+      <Price>11,40</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.001411</ExternalId>
+      <Name>Afdekplaat zijkant</Name>
+      <Price>11,40</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.004843</ExternalId>
+      <Name>Afdekplaat midden</Name>
+      <Price>12,20</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.006383</ExternalId>
+      <Name>Afdekplaat enkel (telefoon en antenne)</Name>
+      <Price>6,80</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.005781</ExternalId>
+      <Name>Afdekplaat enkel</Name>
+      <Price>6,80</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.008277</ExternalId>
+      <Name>Antenneaansluiting (versterker en satelliet)</Name>
+      <Price>53,00</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.001462</ExternalId>
+      <Name>Antenneaansluiting (versterker of kabel)</Name>
+      <Price>44,70</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.005181</ExternalId>
+      <Name>Telefoonaansluiting (met adapter)</Name>
+      <Price>17,00</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.00216</ExternalId>
+      <Name>Netwerkaansluiting dubbel</Name>
+      <Price>28,20</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.001379</ExternalId>
+      <Name>Dimmer druk/wissel magnetische transformator</Name>
+      <Price>73,50</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.009792</ExternalId>
+      <Name>Dimmer druk/wissel eletrische transformator</Name>
+      <Price>69,40</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.009671</ExternalId>
+      <Name>Dimmer druk/wissel gloeilampen</Name>
+      <Price>59,50</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.002467</ExternalId>
+      <Name>Drukknopschakelaar sleutelsymbool</Name>
+      <Price>28,60</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.008527</ExternalId>
+      <Name>Drukknopschakelaar belsymbool</Name>
+      <Price>28,60</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.008438</ExternalId>
+      <Name>Led (drukknopschakelaars en controleschakelaar)</Name>
+      <Price>2,10</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.009931</ExternalId>
+      <Name>Drukknopschakelaar lichtsymbool</Name>
+      <Price>28,60</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.005373</ExternalId>
+      <Name>Drukknopschakelaar blanco</Name>
+      <Price>28,60</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.004538</ExternalId>
+      <Name>Controleschakelaar</Name>
+      <Price>28,60</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.007048</ExternalId>
+      <Name>Drukschakelaar kruis</Name>
+      <Price>33,65</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.00132</ExternalId>
+      <Name>Drukschakelaar wissel</Name>
+      <Price>28,60</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.00939</ExternalId>
+      <Name>Draaischakelaar serie</Name>
+      <Price>31,95</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.002910</ExternalId>
+      <Name>Draaischakelaar rolluik</Name>
+      <Price>33,70</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.009581</ExternalId>
+      <Name>Draaischakelaar kruis</Name>
+      <Price>37,00</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.002040</ExternalId>
+      <Name>Draaischakelaar Wissel/Dubbelpolig</Name>
+      <Price>31,95</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.00730</ExternalId>
+      <Name>Stopcontact met kinderbeveiling, penaarding</Name>
+      <Price>15,20</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.005835</ExternalId>
+      <Name>Stopcontact met kinderbeveiliging, randaarding</Name>
+      <Price>15,20</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.001357</ExternalId>
+      <Name>Stopcontact zonder kinderbeveiliging, randaarding</Name>
+      <Price>11,50</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Schakelmateriaal</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.007318</ExternalId>
+      <Name>WC borstel + houder Touch Inda</Name>
+      <Price>96,00</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.003494</ExternalId>
+      <Name>Droger Touch Inda</Name>
+      <Price>119,05</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.008646</ExternalId>
+      <Name>Kapstok Touch Inda</Name>
+      <Price>41,10</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.005087</ExternalId>
+      <Name>Zeepverdeler Touch Inda</Name>
+      <Price>142,70</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.00281</ExternalId>
+      <Name>Glashouder+glas Touch Inda</Name>
+      <Price>99,38</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.003772</ExternalId>
+      <Name>Toiletset muurbevestiging Touch Inda</Name>
+      <Price>283,10</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.006616</ExternalId>
+      <Name>WC-borstelhouder Touch Inda</Name>
+      <Price>173,06</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.002879</ExternalId>
+      <Name>Reserve wc-rolhouder Touch Inda</Name>
+      <Price>68,84</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.008645</ExternalId>
+      <Name>WC papierhouder Touch Inda</Name>
+      <Price>71,23</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.004725</ExternalId>
+      <Name>Badset met aansluitbocht Starck Hansgrohe</Name>
+      <Price>242,50</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.006154</ExternalId>
+      <Name>Badset porter's-croma100 multi Hansgrohe</Name>
+      <Price>81,74</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.009491</ExternalId>
+      <Name>Badset porter's-croma100 Vario Hansgrohe</Name>
+      <Price>60,50</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.001650</ExternalId>
+      <Name>Badset porter'c-croma 2jet Hansgrohe</Name>
+      <Price>74,50</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.001378</ExternalId>
+      <Name>Badset porter'c-croma 1jet Hansgrohe</Name>
+      <Price>57,50</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.002885</ExternalId>
+      <Name>Enkel dienstkraan Laguna</Name>
+      <Price>18,80</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.002819</ExternalId>
+      <Name>Dubbel dienstkraan Laguna</Name>
+      <Price>21,60</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.007788</ExternalId>
+      <Name>Kw/ww kraan "lux" Laguna</Name>
+      <Price>27,03</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.005695</ExternalId>
+      <Name>Kw/ww kraan beweegbare bek Laguna</Name>
+      <Price>40,10</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.008971</ExternalId>
+      <Name>Tweegreeps mengkraan Lavabo</Name>
+      <Price>60,60</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.003915</ExternalId>
+      <Name>Tweegreeps mengkraan keuken lage druk Laguna</Name>
+      <Price>60,70</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.009643</ExternalId>
+      <Name>Tweegreeps mengkraan keuken Laguna</Name>
+      <Price>44,40</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.004253</ExternalId>
+      <Name>Enkele muurkraan bek onder Laguna</Name>
+      <Price>31,70</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.001824</ExternalId>
+      <Name>Tweegreeps mengkraan muur Laguna</Name>
+      <Price>51,90</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.004258</ExternalId>
+      <Name>Af- en aanvoergarnituur Geberit</Name>
+      <Price>18,80</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.001455</ExternalId>
+      <Name>Debietmoderator voor spoelsyteem Geberit</Name>
+      <Price>6,84</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.008691</ExternalId>
+      <Name>Debietmoderator voor spoelreservoir Geberit</Name>
+      <Price>5,32</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.006466</ExternalId>
+      <Name>Flexibel Geberit jachtbak</Name>
+      <Price>13,30</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.002982</ExternalId>
+      <Name>Kraan jachtbak Geberit</Name>
+      <Price>10,50</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.00554</ExternalId>
+      <Name>Dichting tussen pot en bak Geberit</Name>
+      <Price>6,82</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.001528</ExternalId>
+      <Name>Bevestigingsset voor jachtbak Geberit</Name>
+      <Price>14,50</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.003622</ExternalId>
+      <Name>Klokrubber Geberit</Name>
+      <Price>2,28</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.006793</ExternalId>
+      <Name>Euro-closetverbinding Geberit</Name>
+      <Price>3,15</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.002286</ExternalId>
+      <Name>Bevestiging hevelkamer handenwasser</Name>
+      <Price>36,28</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.003428</ExternalId>
+      <Name>Bevestiging hevelkamer lavabo Duravit</Name>
+      <Price>71,70</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.001994</ExternalId>
+      <Name>Bevestigingsset voor urinoir Duravit</Name>
+      <Price>13,35</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.003378</ExternalId>
+      <Name>Universele aansluitset Vario Duravit</Name>
+      <Price>57,75</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.008509</ExternalId>
+      <Name>Pack staande WC Playa ideal standard</Name>
+      <Price>298,66</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.00793</ExternalId>
+      <Name>Pack staande WC Playa ideal standard</Name>
+      <Price>298,18</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.002644</ExternalId>
+      <Name>Pack hang WC Playa ideal standard</Name>
+      <Price>253,98</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.005169</ExternalId>
+      <Name>WC zitting Playa ideal standard</Name>
+      <Price>98,78</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.005724</ExternalId>
+      <Name>Hang WC Playa ideal standard</Name>
+      <Price>151,20</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.005803</ExternalId>
+      <Name>WC zitting connect slim ideal standard</Name>
+      <Price>130,07</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.008039</ExternalId>
+      <Name>WC zitting connect ideal standard</Name>
+      <Price>120,99</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.007924</ExternalId>
+      <Name>WC zitting connect ideal standard</Name>
+      <Price>70,90</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.00912</ExternalId>
+      <Name>Jachtbak connect cube ideal standard</Name>
+      <Price>145,04</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.002657</ExternalId>
+      <Name>Onderstuk back-to-wall connect ideal standard</Name>
+      <Price>260,36</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.005191</ExternalId>
+      <Name>Onderstuk compact ideal standard</Name>
+      <Price>295,87</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.004981</ExternalId>
+      <Name>Hang WC zonder spoelrand connect ideal standard</Name>
+      <Price>235,13</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.001211</ExternalId>
+      <Name>Hang WC connect ideal standard</Name>
+      <Price>235,81</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.008263</ExternalId>
+      <Name>Hang WC compact connect ideal standard</Name>
+      <Price>285,44</Price>
+      <Unit>Stuks</Unit>
+      <Theme>Sanitair</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.003139</ExternalId>
+      <Name>VO-YMvKas mb 5x2,5 mm2</Name>
+      <Price>8,78</Price>
+      <Unit>Meter</Unit>
+      <Theme>Installatiedraad</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.007433</ExternalId>
+      <Name>VO-YMvKas mb 4x2,5 mm2</Name>
+      <Price>7,39</Price>
+      <Unit>Meter</Unit>
+      <Theme>Installatiedraad</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.007534</ExternalId>
+      <Name>VO-YMvKas mb 3x2,5 mm2</Name>
+      <Price>6,10</Price>
+      <Unit>Meter</Unit>
+      <Theme>Installatiedraad</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.002771</ExternalId>
+      <Name>VO-YMvKas mb 2x2,5 mm2</Name>
+      <Price>4,91</Price>
+      <Unit>Meter</Unit>
+      <Theme>Installatiedraad</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.007820</ExternalId>
+      <Name>YMvK Dca 3G2,5</Name>
+      <Price>3,36</Price>
+      <Unit>Meter</Unit>
+      <Theme>Installatiedraad</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.008015</ExternalId>
+      <Name>YMvK Dca 5G2,5</Name>
+      <Price>5,41</Price>
+      <Unit>Meter</Unit>
+      <Theme>Installatiedraad</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.001973</ExternalId>
+      <Name>YMvK mb 5G2,5 mm2</Name>
+      <Price>5,26</Price>
+      <Unit>Meter</Unit>
+      <Theme>Installatiedraad</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.003289</ExternalId>
+      <Name>YMvK mb 3G2,5 mm2</Name>
+      <Price>3,23</Price>
+      <Unit>Meter</Unit>
+      <Theme>Installatiedraad</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.002795</ExternalId>
+      <Name>PROFWIRE VD H07V-U Eca</Name>
+      <Price>0,91</Price>
+      <Unit>Meter</Unit>
+      <Theme>Installatiedraad</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.009714</ExternalId>
+      <Name>PROFWIRE VD 2,5 mm2 groen/geel</Name>
+      <Price>0,79</Price>
+      <Unit>Meter</Unit>
+      <Theme>Installatiedraad</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.005526</ExternalId>
+      <Name>PROFWIRE VD 2,5 mm2 blauw</Name>
+      <Price>0,79</Price>
+      <Unit>Meter</Unit>
+      <Theme>Installatiedraad</Theme>
+    </KVProduct>
+    <KVProduct>
+      <ExternalId>PRD.004701</ExternalId>
+      <Name>PROFWIRE VD 2,5 mm2 bruin</Name>
+      <Price>0,79</Price>
+      <Unit>Meter</Unit>
+      <Theme>Installatiedraad</Theme>
+    </KVProduct>
+  </Products>
+</XmlRequest>

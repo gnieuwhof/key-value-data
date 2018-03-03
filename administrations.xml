@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<XmlRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Administrations>
+    <KVAdministration>
+      <ExternalId>ADM.001338</ExternalId>
+      <Name>Regio Oost</Name>
+      <Theme>Regio</Theme>
+    </KVAdministration>
+    <KVAdministration>
+      <ExternalId>ADM.005850</ExternalId>
+      <Name>Regio West</Name>
+      <Theme>Regio</Theme>
+    </KVAdministration>
+    <KVAdministration>
+      <ExternalId>ADM.002828</ExternalId>
+      <Name>Regio Zuid</Name>
+      <Theme>Regio</Theme>
+    </KVAdministration>
+    <KVAdministration>
+      <ExternalId>ADM.001002</ExternalId>
+      <Name>Regio Midden</Name>
+      <Theme>Regio</Theme>
+    </KVAdministration>
+    <KVAdministration>
+      <ExternalId>ADM.001858</ExternalId>
+      <Name>Regio Noord</Name>
+      <Theme>Regio</Theme>
+    </KVAdministration>
+    <KVAdministration>
+      <ExternalId>ADM.00036</ExternalId>
+      <Name>Vestiging Noord</Name>
+      <Theme>Cardinal Directions</Theme>
+    </KVAdministration>
+    <KVAdministration>
+      <ExternalId>ADM.000858</ExternalId>
+      <Name>Afdeling Onderhoud</Name>
+      <Theme>Organization</Theme>
+    </KVAdministration>
+    <KVAdministration>
+      <ExternalId>ADM.00088</ExternalId>
+      <Name>Afdeling Productie</Name>
+      <Theme>Organization</Theme>
+    </KVAdministration>
+    <KVAdministration>
+      <ExternalId>ADM.000772</ExternalId>
+      <Name>Afdeling Verkoop</Name>
+      <Theme>Organization</Theme>
+    </KVAdministration>
+    <KVAdministration>
+      <ExternalId>ADM.000439</ExternalId>
+      <Name>Afdeling Inkoop</Name>
+      <Theme>Organization</Theme>
+    </KVAdministration>
+    <KVAdministration>
+      <ExternalId>ADM.000719</ExternalId>
+      <Name>Shelbyville</Name>
+      <Theme>The Simpsons</Theme>
+    </KVAdministration>
+    <KVAdministration>
+      <ExternalId>ADM.0007457</ExternalId>
+      <Name>Springfield</Name>
+      <Theme>The Simpsons</Theme>
+    </KVAdministration>
+    <KVAdministration>
+      <ExternalId>ADM.000582</ExternalId>
+      <Name>Vestiging Oost</Name>
+      <Theme>Cardinal Directions</Theme>
+    </KVAdministration>
+    <KVAdministration>
+      <ExternalId>ADM.000225</ExternalId>
+      <Name>Vestiging Zuid</Name>
+      <Theme>Cardinal Directions</Theme>
+    </KVAdministration>
+    <KVAdministration>
+      <ExternalId>ADM.000153</ExternalId>
+      <Name>Vestiging West</Name>
+      <Theme>Cardinal Directions</Theme>
+    </KVAdministration>
+  </Administrations>
+</XmlRequest>

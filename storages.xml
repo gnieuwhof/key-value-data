@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+<XmlRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Storages>
+    <KVStorage>
+      <ExternalId>STR.00619</ExternalId>
+      <Name>Arcee</Name>
+      <Description>Cybertronian Convertible.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00119</ExternalId>
+      <Name>Beachcomber</Name>
+      <Description>Dune Buggy.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00791</ExternalId>
+      <Name>Bluestreak</Name>
+      <Description>Nissan 280ZX.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00334</ExternalId>
+      <Name>Blitzwing</Name>
+      <Description>Type 74 Tank.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00669</ExternalId>
+      <Name>Blurr</Name>
+      <Description>Cybertronian Hover Car.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00715</ExternalId>
+      <Name>Bonecrusher</Name>
+      <Description>Bulldozer.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00290</ExternalId>
+      <Name>Breakdown</Name>
+      <Description>Lamborghini Countach.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00246</ExternalId>
+      <Name>Brawl</Name>
+      <Description>Leopard tank.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00910</ExternalId>
+      <Name>Brawn</Name>
+      <Description>Land Rover.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00293</ExternalId>
+      <Name>Brunt</Name>
+      <Description>Cybertronic tank.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00646</ExternalId>
+      <Name>Bumblebee</Name>
+      <Description>VW Beetle.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.0077</ExternalId>
+      <Name>Chase</Name>
+      <Description>Ferrari Testarossa.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00325</ExternalId>
+      <Name>Chromedome</Name>
+      <Description>Car.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00280</ExternalId>
+      <Name>Chromia</Name>
+      <Description>Cybertronian van.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00208</ExternalId>
+      <Name>Cliffjumper</Name>
+      <Description>VW Beetle.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00439</ExternalId>
+      <Name>Counterpunch</Name>
+      <Description>Lamborghini Diablo.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00794</ExternalId>
+      <Name>Crosshairs</Name>
+      <Description>Truck.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00398</ExternalId>
+      <Name>Dead End</Name>
+      <Description>Porsche 928.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00189</ExternalId>
+      <Name>Devcon</Name>
+      <Description>Cybertronian Car.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00604</ExternalId>
+      <Name>Dion</Name>
+      <Description>Cybertronian car.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00922</ExternalId>
+      <Name>Drag Strip</Name>
+      <Description>Tyrrell P34.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00765</ExternalId>
+      <Name>Elita One</Name>
+      <Description>Cybertronian car.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00981</ExternalId>
+      <Name>Fastlane</Name>
+      <Description>Dune Buggy.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00617</ExternalId>
+      <Name>Firestar</Name>
+      <Description>Cybertronian truck.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00805</ExternalId>
+      <Name>First Aid</Name>
+      <Description>Toyota Hiace.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00445</ExternalId>
+      <Name>Hook</Name>
+      <Description>Crane Vehicle.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00190</ExternalId>
+      <Name>Freeway</Name>
+      <Description>Chevrolet Corvette.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00782</ExternalId>
+      <Name>Full-Tilt</Name>
+      <Description>Cybertronic race car.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00442</ExternalId>
+      <Name>Gears</Name>
+      <Description>Pickup Truck.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00153</ExternalId>
+      <Name>Goldbug</Name>
+      <Description>VW Beetle.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00689</ExternalId>
+      <Name>Grapple</Name>
+      <Description>Mitsubishi Fuso.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00305</ExternalId>
+      <Name>Hardhead</Name>
+      <Description>Tank.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00592</ExternalId>
+      <Name>Hoist</Name>
+      <Description>Toyota Hilux.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00971</ExternalId>
+      <Name>Hot Spot</Name>
+      <Description>Mitsubishi Fuso.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00591</ExternalId>
+      <Name>Hound</Name>
+      <Description>Mitsubishi J59.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00457</ExternalId>
+      <Name>Huffer</Name>
+      <Description>Single Axle Cab-Over.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00509</ExternalId>
+      <Name>Inferno</Name>
+      <Description>Mitsubishi Fuso.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00259</ExternalId>
+      <Name>Ironhide</Name>
+      <Description>Nissan Onebox Vanette.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00440</ExternalId>
+      <Name>Jazz</Name>
+      <Description>Porsche 935.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00282</ExternalId>
+      <Name>Kup</Name>
+      <Description>Cybertronian Pickup Truck.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.0070</ExternalId>
+      <Name>Lightspeed</Name>
+      <Description>Race Car.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00970</ExternalId>
+      <Name>Long Haul</Name>
+      <Description>Dump truck.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00807</ExternalId>
+      <Name>Octane</Name>
+      <Description>Tanker Truck.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00762</ExternalId>
+      <Name>Mixmaster</Name>
+      <Description>Cement Truck.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00698</ExternalId>
+      <Name>Moonracer</Name>
+      <Description>Cybertronian car.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00518</ExternalId>
+      <Name>Motormaster</Name>
+      <Description>Kenworth K100.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.0050</ExternalId>
+      <Name>Optimus Prime</Name>
+      <Description>Freightliner Semi.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00294</ExternalId>
+      <Name>Outback</Name>
+      <Description>Land Rover.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00659</ExternalId>
+      <Name>Pipes</Name>
+      <Description>Single Axle Cab-Over.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00171</ExternalId>
+      <Name>Pointblank</Name>
+      <Description>Truck.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00266</ExternalId>
+      <Name>Prowl</Name>
+      <Description>Nissan 280ZX.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00883</ExternalId>
+      <Name>Ratchet</Name>
+      <Description>Nissan Onebox Vanette.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00189</ExternalId>
+      <Name>Red Alert</Name>
+      <Description>Lamborghini Countach LP500S.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00970</ExternalId>
+      <Name>Rodimus Prime</Name>
+      <Description>Hot Rod.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00210</ExternalId>
+      <Name>Rollbar</Name>
+      <Description>Jeep Wrangler.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00854</ExternalId>
+      <Name>Runabout</Name>
+      <Description>Lotus Esprit.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00138</ExternalId>
+      <Name>Runamuck</Name>
+      <Description>Pontiac Trans Am.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00174</ExternalId>
+      <Name>Sandstorm</Name>
+      <Description>Dune Buggy.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00528</ExternalId>
+      <Name>Scavenger</Name>
+      <Description>Excavator.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00224</ExternalId>
+      <Name>Scamper</Name>
+      <Description>Cybertronic six-wheel car.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00525</ExternalId>
+      <Name>Scrapper</Name>
+      <Description>Front End Loader.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00507</ExternalId>
+      <Name>Searchlight</Name>
+      <Description>Ford RS200.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00803</ExternalId>
+      <Name>Seaspray</Name>
+      <Description>Hovercraft.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00757</ExternalId>
+      <Name>Sideswipe</Name>
+      <Description>Lamborghini Countach LP500S.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00603</ExternalId>
+      <Name>Sixshot</Name>
+      <Description>Tank.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00341</ExternalId>
+      <Name>Skids</Name>
+      <Description>Honda Minivan.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00485</ExternalId>
+      <Name>Smokescreen</Name>
+      <Description>Datsun 280ZX.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00353</ExternalId>
+      <Name>Springer</Name>
+      <Description>Cybertronian Armored Car.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00689</ExternalId>
+      <Name>Streetwise</Name>
+      <Description>Nissan 300ZX Z31.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00751</ExternalId>
+      <Name>Sunstreaker</Name>
+      <Description>Lamborghini Countach LP500S.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00930</ExternalId>
+      <Name>Sureshot</Name>
+      <Description>Race Car.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00535</ExternalId>
+      <Name>Swerve</Name>
+      <Description>Pickup Truck.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00957</ExternalId>
+      <Name>Swindle</Name>
+      <Description>FMC XR311.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00907</ExternalId>
+      <Name>Tailgate</Name>
+      <Description>Pontic Trans Am.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00534</ExternalId>
+      <Name>Tracks</Name>
+      <Description>Corvette Stingray.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00951</ExternalId>
+      <Name>Trailbreaker</Name>
+      <Description>Toyota Hilux.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00957</ExternalId>
+      <Name>Ultra Magnus</Name>
+      <Description>Mack Car Carrier.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00218</ExternalId>
+      <Name>Warpath</Name>
+      <Description>M551 Sheridan Tank.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00918</ExternalId>
+      <Name>Wheelie</Name>
+      <Description>Cybertronian Car.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00287</ExternalId>
+      <Name>Wheeljack</Name>
+      <Description>Lancia Stratos Turbo.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00394</ExternalId>
+      <Name>Wideload</Name>
+      <Description>Dump Truck.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00896</ExternalId>
+      <Name>Wildrider</Name>
+      <Description>Ferrari 308 GTB.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00113</ExternalId>
+      <Name>Windcharger</Name>
+      <Description>Pontiac Trans Am.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+    <KVStorage>
+      <ExternalId>STR.00271</ExternalId>
+      <Name>Wipe-Out</Name>
+      <Description>Cybertronic car.</Description>
+      <Theme>Transformers</Theme>
+    </KVStorage>
+  </Storages>
+</XmlRequest>

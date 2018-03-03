@@ -1,0 +1,1412 @@
+<?xml version="1.0"?>
+<XmlRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Addresses>
+    <KVAddress>
+      <ExternalId>ADR.008575</ExternalId>
+      <Street>Aagje Dekenstraat 15</Street>
+      <PostalCode>7207 KL</PostalCode>
+      <City>Zutphen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002689</ExternalId>
+      <Street>Pottenbakkerstraat 59</Street>
+      <PostalCode>8043 BN</PostalCode>
+      <City>Zwolle</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006358</ExternalId>
+      <Street>Burgerveld 12</Street>
+      <PostalCode>5411 TG</PostalCode>
+      <City>Zeeland</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008894</ExternalId>
+      <Street>Maurikstraat 32</Street>
+      <PostalCode>3701 HC</PostalCode>
+      <City>Zeist</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004846</ExternalId>
+      <Street>Gildebongerd 129</Street>
+      <PostalCode>7038 DC</PostalCode>
+      <City>Zeddam</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009326</ExternalId>
+      <Street>Haltestraat 66</Street>
+      <PostalCode>2042 LP</PostalCode>
+      <City>Zandvoort</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00799</ExternalId>
+      <Street>Zilverzandlaan 9</Street>
+      <PostalCode>7764 AS</PostalCode>
+      <City>Zandpol</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005589</ExternalId>
+      <Street>Thorbeckestraat 50</Street>
+      <PostalCode>5301 NH</PostalCode>
+      <City>Zaltbommel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007082</ExternalId>
+      <Street>Wijngaardstraat 12</Street>
+      <PostalCode>4401 CS</PostalCode>
+      <City>Yerseke</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00398</ExternalId>
+      <Street>Populierenstraat 37</Street>
+      <PostalCode>1731 SR</PostalCode>
+      <City>Winkel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009585</ExternalId>
+      <Street>Nijverheidsweg 19</Street>
+      <PostalCode>3931 CW</PostalCode>
+      <City>Woudenberg</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006870</ExternalId>
+      <Street>Leidsestraatweg 2</Street>
+      <PostalCode>3443 BV</PostalCode>
+      <City>Woerden</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008447</ExternalId>
+      <Street>Ahornstraat 32</Street>
+      <PostalCode>7101 LB</PostalCode>
+      <City>Winterswijk</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001523</ExternalId>
+      <Street>Dahliastraat 51</Street>
+      <PostalCode>9951 GG</PostalCode>
+      <City>Winsum</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003514</ExternalId>
+      <Street>Landpoortstraat 10</Street>
+      <PostalCode>4797 AN</PostalCode>
+      <City>Willemstad</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007064</ExternalId>
+      <Street>Hoeverstraat 50</Street>
+      <PostalCode>5563 AJ</PostalCode>
+      <City>Westerhoven</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009137</ExternalId>
+      <Street>Wielsterdyk 19</Street>
+      <PostalCode>9024 BD</PostalCode>
+      <City>Weidum</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001063</ExternalId>
+      <Street>Arnoldus Verschurenstraat 27</Street>
+      <PostalCode>5165 AR</PostalCode>
+      <City>Waspik</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005671</ExternalId>
+      <Street>Breegraven 45</Street>
+      <PostalCode>7231 JB</PostalCode>
+      <City>Warnsveld</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009235</ExternalId>
+      <Street>Prunusstraat 2</Street>
+      <PostalCode>6706 CA</PostalCode>
+      <City>Wageningen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004038</ExternalId>
+      <Street>Attesweg 17</Street>
+      <PostalCode>9077 PL</PostalCode>
+      <City>Vrouwenparochie</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00114</ExternalId>
+      <Street>Smidsstraat 11</Street>
+      <PostalCode>7251 XS</PostalCode>
+      <City>Vorden</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008440</ExternalId>
+      <Street>Sophiastraat 18</Street>
+      <PostalCode>2271 SH</PostalCode>
+      <City>Voorburg</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00619</ExternalId>
+      <Street>van der Duynstraat 16</Street>
+      <PostalCode>3135 NH</PostalCode>
+      <City>Vlaardingen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004445</ExternalId>
+      <Street>Landregtstraat 4</Street>
+      <PostalCode>4386 AN</PostalCode>
+      <City>Vlissingen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008336</ExternalId>
+      <Street>Grotestraat 87</Street>
+      <PostalCode>5821 AC</PostalCode>
+      <City>Vierlingsbeek</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00893</ExternalId>
+      <Street>Wilhelminastraat 45</Street>
+      <PostalCode>5802 BA</PostalCode>
+      <City>Venray</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008425</ExternalId>
+      <Street>Corneillestraat 13</Street>
+      <PostalCode>5924 AS</PostalCode>
+      <City>Venlo</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005555</ExternalId>
+      <Street>Oderstraat 4</Street>
+      <PostalCode>5463 AP</PostalCode>
+      <City>Veghel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007394</ExternalId>
+      <Street>Groengrachtstraat 28</Street>
+      <PostalCode>6301 EM</PostalCode>
+      <City>Valkenburg</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009655</ExternalId>
+      <Street>Helenastraat 25</Street>
+      <PostalCode>5401 AJ</PostalCode>
+      <City>Uden</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008781</ExternalId>
+      <Street>Raadhuisstraat 52</Street>
+      <PostalCode>6129 CE</PostalCode>
+      <City>Urmond</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003600</ExternalId>
+      <Street>Nagel 65</Street>
+      <PostalCode>8322 AX</PostalCode>
+      <City>Urk</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003962</ExternalId>
+      <Street>Frederik Hendrikstraat 52</Street>
+      <PostalCode>3583 VN</PostalCode>
+      <City>Utrecht</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003868</ExternalId>
+      <Street>Rijperweg 6</Street>
+      <PostalCode>1154 PN</PostalCode>
+      <City>Uitdam</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003326</ExternalId>
+      <Street>Voorhoevestraat 50</Street>
+      <PostalCode>7339 AV</PostalCode>
+      <City>Ugchelen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001718</ExternalId>
+      <Street>Fabrieksweg 5</Street>
+      <PostalCode>8804 NJ</PostalCode>
+      <City>Tzum</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001846</ExternalId>
+      <Street>Drechterlandstraat 5</Street>
+      <PostalCode>5043 GK</PostalCode>
+      <City>Tilburg</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009107</ExternalId>
+      <Street>Zomerweg 22</Street>
+      <PostalCode>9255 MA</PostalCode>
+      <City>Tytsjerk</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001304</ExternalId>
+      <Street>Singel 10</Street>
+      <PostalCode>5395 TC</PostalCode>
+      <City>Teeffelen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00554</ExternalId>
+      <Street>Spoorstraat 56</Street>
+      <PostalCode>6114 EM</PostalCode>
+      <City>Susteren</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004330</ExternalId>
+      <Street>Jeroen Boschstraat 30</Street>
+      <PostalCode>6137 XK</PostalCode>
+      <City>Sittard</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008845</ExternalId>
+      <Street>Herman van Velzenstraat 45</Street>
+      <PostalCode>7064 AS</PostalCode>
+      <City>Silvolde</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009119</ExternalId>
+      <Street>Harterinkdijk 23</Street>
+      <PostalCode>7065 AP</PostalCode>
+      <City>Sinderen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001087</ExternalId>
+      <Street>Krommestuk 6</Street>
+      <PostalCode>3925 WE</PostalCode>
+      <City>Scherpenzeel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008436</ExternalId>
+      <Street>Toscastraat 3</Street>
+      <PostalCode>3208 PL</PostalCode>
+      <City>Spijkenisse</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008196</ExternalId>
+      <Street>Thorbeckestraat 42</Street>
+      <PostalCode>8331 AP</PostalCode>
+      <City>Steenwijk</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007131</ExternalId>
+      <Street>Anna Paulownastraat 23</Street>
+      <PostalCode>8606 XN</PostalCode>
+      <City>Sneek</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002010</ExternalId>
+      <Street>Liauckamaleane 2</Street>
+      <PostalCode>8855 XJ</PostalCode>
+      <City>Sexbierum</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008318</ExternalId>
+      <Street>Schoonbronstraat 23</Street>
+      <PostalCode>6305 BJ</PostalCode>
+      <City>Schin op Geul</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004710</ExternalId>
+      <Street>Duivenhoeksestraat 18</Street>
+      <PostalCode>4569 TJ</PostalCode>
+      <City>Graauw</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007902</ExternalId>
+      <Street>Esweg 2</Street>
+      <PostalCode>7261 BZ</PostalCode>
+      <City>Ruurlo</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001431</ExternalId>
+      <Street>Bernhardstraat</Street>
+      <PostalCode>4715 PZ</PostalCode>
+      <City>Rucphen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008500</ExternalId>
+      <Street>Bernadettestraat 3</Street>
+      <PostalCode>5248 AN</PostalCode>
+      <City>Rosmalen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004463</ExternalId>
+      <Street>Fokkerstraat 56</Street>
+      <PostalCode>6044 SW</PostalCode>
+      <City>Roermond</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002444</ExternalId>
+      <Street>Ottoburgstraat 60</Street>
+      <PostalCode>2282 EK</PostalCode>
+      <City>Rijswijk</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006015</ExternalId>
+      <Street>Bennebroekerweg 45</Street>
+      <PostalCode>1435 CG</PostalCode>
+      <City>Rijsenhout</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008077</ExternalId>
+      <Street>de Quaystraat 22</Street>
+      <PostalCode>5121 AR</PostalCode>
+      <City>Rijen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00741</ExternalId>
+      <Street>H.P.J. de Vriesstraat 30</Street>
+      <PostalCode>3071 MD</PostalCode>
+      <City>Rotterdam</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003953</ExternalId>
+      <Street>Maartje Offersstraat 7</Street>
+      <PostalCode>2642 BN</PostalCode>
+      <City>Pijnacker</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00630</ExternalId>
+      <Street>Coloradostraat 28</Street>
+      <PostalCode>1448 XE</PostalCode>
+      <City>Purmerend</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001354</ExternalId>
+      <Street>Thornsestraat 14</Street>
+      <PostalCode>6575 JJ</PostalCode>
+      <City>Persingen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009920</ExternalId>
+      <Street>Kerkstraat 57</Street>
+      <PostalCode>5981 CE</PostalCode>
+      <City>Panningen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005927</ExternalId>
+      <Street>Singel 68</Street>
+      <PostalCode>3984 NZ</PostalCode>
+      <City>Odijk</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009517</ExternalId>
+      <Street>Valkstraat 18</Street>
+      <PostalCode>6611 KW</PostalCode>
+      <City>Overasselt</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00672</ExternalId>
+      <Street>Zwaluwstraat 6</Street>
+      <PostalCode>5409 AK</PostalCode>
+      <City>Odiliapeel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005307</ExternalId>
+      <Street>Talmastraat 4</Street>
+      <PostalCode>4908 DS</PostalCode>
+      <City>Oosterhout</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006643</ExternalId>
+      <Street>Suikerkampstraat 22</Street>
+      <PostalCode>5345 GJ</PostalCode>
+      <City>Oss</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008654</ExternalId>
+      <Street>Zwarteweg 4</Street>
+      <PostalCode>2374 BA</PostalCode>
+      <City>Oud Ade</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005524</ExternalId>
+      <Street>Emmerikseweg 35</Street>
+      <PostalCode>7077 AN</PostalCode>
+      <City>Netterden</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005382</ExternalId>
+      <Street>Smithstraat 56</Street>
+      <PostalCode>8071 KW</PostalCode>
+      <City>Nunspeet</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003848</ExternalId>
+      <Street>Johan Frisostraat 2</Street>
+      <PostalCode>5671 XL</PostalCode>
+      <City>Nuenen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008965</ExternalId>
+      <Street>Prins Bernhardstraat 4</Street>
+      <PostalCode>2631 EC</PostalCode>
+      <City>Nootdorp</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007102</ExternalId>
+      <Street>Wilhelminastraat 5</Street>
+      <PostalCode>2201 KA</PostalCode>
+      <City>Noordwijk</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008502</ExternalId>
+      <Street>Wilhelminastraat 96</Street>
+      <PostalCode>7442 GK</PostalCode>
+      <City>Nijverdal</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002559</ExternalId>
+      <Street>Fransestraat 53</Street>
+      <PostalCode>6524 HV</PostalCode>
+      <City>Nijmegen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004456</ExternalId>
+      <Street>Weth.de Boerstraat 37</Street>
+      <PostalCode>7711 KW</PostalCode>
+      <City>Nieuwleusen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008696</ExternalId>
+      <Street>Noorsestraat 15</Street>
+      <PostalCode>2912 TJ</PostalCode>
+      <City>Nieuwerkerk aan den IJssel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005187</ExternalId>
+      <Street>Korenbloemstraat 19</Street>
+      <PostalCode>3434 EA</PostalCode>
+      <City>Nieuwegein</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002290</ExternalId>
+      <Street>Zwaluwstraat 10</Street>
+      <PostalCode>5451 PR</PostalCode>
+      <City>Mill</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001524</ExternalId>
+      <Street>Prins Bernhardstraat 57</Street>
+      <PostalCode>2841 TG</PostalCode>
+      <City>Moordrecht</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009779</ExternalId>
+      <Street>Molenstraat 80</Street>
+      <PostalCode>2681 BS</PostalCode>
+      <City>Monster</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005475</ExternalId>
+      <Street>Fiskerspaad 10</Street>
+      <PostalCode>9142 VN</PostalCode>
+      <City>Moddergat</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003322</ExternalId>
+      <Street>Stationsstraat 20 22</Street>
+      <PostalCode>4331 JB</PostalCode>
+      <City>Middelburg</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009173</ExternalId>
+      <Street>Pastoor Boeijenstraat 33</Street>
+      <PostalCode>5763 AS</PostalCode>
+      <City>Milheeze</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009454</ExternalId>
+      <Street>Nieuwstraat 58</Street>
+      <PostalCode>1671 BG</PostalCode>
+      <City>Medemblik</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008908</ExternalId>
+      <Street>Bitgumerdyk 12</Street>
+      <PostalCode>9034 GJ</PostalCode>
+      <City>Marsum</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00606</ExternalId>
+      <Street>Noorderwerfstraat 19</Street>
+      <PostalCode>1156 AH</PostalCode>
+      <City>Marken</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002523</ExternalId>
+      <Street>Dahliastraat 32</Street>
+      <PostalCode>6581 XL</PostalCode>
+      <City>Malden</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008851</ExternalId>
+      <Street>Kerkeburen 25</Street>
+      <PostalCode>8754 CZ</PostalCode>
+      <City>Makkum</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007101</ExternalId>
+      <Street>Arcadiastraat 3</Street>
+      <PostalCode>6213 AN</PostalCode>
+      <City>Maastricht</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005695</ExternalId>
+      <Street>Arie Krijgsmanstraat 25</Street>
+      <PostalCode>3144 RC</PostalCode>
+      <City>Maassluis</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008072</ExternalId>
+      <Street>Wethouder Dijkshoornlaan 3</Street>
+      <PostalCode>3155 TN</PostalCode>
+      <City>Maasland</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008407</ExternalId>
+      <Street>Rutgerstraat 17</Street>
+      <PostalCode>5993 EH</PostalCode>
+      <City>Maasbree</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008291</ExternalId>
+      <Street>Vossenlaan 17</Street>
+      <PostalCode>3951 AK</PostalCode>
+      <City>Maarn</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002833</ExternalId>
+      <Street>Pastoor Gielenstraat 4</Street>
+      <PostalCode>1614 LM</PostalCode>
+      <City>Lutjebroek</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001405</ExternalId>
+      <Street>Langwijkstraat 4</Street>
+      <PostalCode>5396 PP</PostalCode>
+      <City>Lithoijen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003575</ExternalId>
+      <Street>Koningsdam 53</Street>
+      <PostalCode>1906 WL</PostalCode>
+      <City>Limmen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009783</ExternalId>
+      <Street>Pillinkstraat 58</Street>
+      <PostalCode>7241 EG</PostalCode>
+      <City>Lochem</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003624</ExternalId>
+      <Street>Leenselweg 9</Street>
+      <PostalCode>5757 SH</PostalCode>
+      <City>Liessel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00486</ExternalId>
+      <Street>Schutsstraat 9</Street>
+      <PostalCode>5737 EV</PostalCode>
+      <City>Lieshout</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008655</ExternalId>
+      <Street>Wim Vrijhoefstraat 48</Street>
+      <PostalCode>3832 LE</PostalCode>
+      <City>Leusden</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001789</ExternalId>
+      <Street>Rhônestraat 12</Street>
+      <PostalCode>8226 MC</PostalCode>
+      <City>Lelystad</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003794</ExternalId>
+      <Street>Oranjestraat 26</Street>
+      <PostalCode>2316 HV</PostalCode>
+      <City>Leiden</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008033</ExternalId>
+      <Street>Pelikaanstraat 29</Street>
+      <PostalCode>8916 AD</PostalCode>
+      <City>Leeuwarden</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007075</ExternalId>
+      <Street>Stuurboordstraat 15</Street>
+      <PostalCode>1433 SE</PostalCode>
+      <City>Kudelstaart</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00885</ExternalId>
+      <Street>Welhoekstraat 29</Street>
+      <PostalCode>4416 BG</PostalCode>
+      <City>Kruiningen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007408</ExternalId>
+      <Street>Hoofdstraat 11</Street>
+      <PostalCode>2931 CE</PostalCode>
+      <City>Krimpen aan de Lek</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005070</ExternalId>
+      <Street>Wilhelminastraat 35</Street>
+      <PostalCode>4413 AW</PostalCode>
+      <City>Krabbendijke</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004967</ExternalId>
+      <Street>Oudhuizerstraat 6</Street>
+      <PostalCode>7382 BR</PostalCode>
+      <City>Klarenbeek</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004867</ExternalId>
+      <Street>Schifferheidestraat 37</Street>
+      <PostalCode>6466 EN</PostalCode>
+      <City>Kerkrade</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005178</ExternalId>
+      <Street>Asserstraat 3</Street>
+      <PostalCode>2221 LG</PostalCode>
+      <City>Katwijk</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006436</ExternalId>
+      <Street>Schoterlandseweg 21</Street>
+      <PostalCode>8455 JD</PostalCode>
+      <City>Katlijk</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002026</ExternalId>
+      <Street>Hikkaarderdyk 27</Street>
+      <PostalCode>9177 GA</PostalCode>
+      <City>Jislum</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009038</ExternalId>
+      <Street>Boarnsylsterwei 3</Street>
+      <PostalCode>9057 RD</PostalCode>
+      <City>Jelsum</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009645</ExternalId>
+      <Street>Hegedyk 31</Street>
+      <PostalCode>9026 BA</PostalCode>
+      <City>Jellum</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002753</ExternalId>
+      <Street>Acaciastraat 3</Street>
+      <PostalCode>1971 ZX</PostalCode>
+      <City>IJmuiden</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007332</ExternalId>
+      <Street>Deurningerstraat 374</Street>
+      <PostalCode>7522 CR</PostalCode>
+      <City>Enschede</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003093</ExternalId>
+      <Street>Tuinstraat 18</Street>
+      <PostalCode>1616 CD</PostalCode>
+      <City>Hoogkarspel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00456</ExternalId>
+      <Street>Theo Bosmanlaan 22</Street>
+      <PostalCode>2355 DB</PostalCode>
+      <City>Hoogmade</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007130</ExternalId>
+      <Street>Van Schaesbergstraat 6</Street>
+      <PostalCode>5961 SC</PostalCode>
+      <City>Horst</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007309</ExternalId>
+      <Street>Betsy Perkstraat 45</Street>
+      <PostalCode>2135 HM</PostalCode>
+      <City>Hoofddorp</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007314</ExternalId>
+      <Street>Kievitsham 47</Street>
+      <PostalCode>5333 GA</PostalCode>
+      <City>Hoenzadriel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009177</ExternalId>
+      <Street>Langestraat 36</Street>
+      <PostalCode>1271 RB</PostalCode>
+      <City>Huizen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001881</ExternalId>
+      <Street>Toermalijnstraat 23</Street>
+      <PostalCode>5706 DV</PostalCode>
+      <City>Helmond</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006041</ExternalId>
+      <Street>Averbodestraat 48</Street>
+      <PostalCode>5988 AZ</PostalCode>
+      <City>Helden</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007988</ExternalId>
+      <Street>Roland Larijstraat 2</Street>
+      <PostalCode>5591 CX</PostalCode>
+      <City>Heeze</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005144</ExternalId>
+      <Street>Adrianus VI straat 8</Street>
+      <PostalCode>5384 JR</PostalCode>
+      <City>Heesch</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003573</ExternalId>
+      <Street>K R Poststraat 62</Street>
+      <PostalCode>8441 ER</PostalCode>
+      <City>Heerenveen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007526</ExternalId>
+      <Street>Tolvepaed 4</Street>
+      <PostalCode>8468 BJ</PostalCode>
+      <City>Haskerdijken</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009323</ExternalId>
+      <Street>Patrimoniumstraat 1</Street>
+      <PostalCode>8861 HN</PostalCode>
+      <City>Harlingen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003875</ExternalId>
+      <Street>Skiramere 17</Street>
+      <PostalCode>9617 EK</PostalCode>
+      <City>Harkstede</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001624</ExternalId>
+      <Street>Floresstraat 19</Street>
+      <PostalCode>2022 BB</PostalCode>
+      <City>Haarlemmermeer</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004316</ExternalId>
+      <Street>Muntstraat 4</Street>
+      <PostalCode>2034 LZ</PostalCode>
+      <City>Haarlem</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00562</ExternalId>
+      <Street>Snoekstraat 16</Street>
+      <PostalCode>1613 JT</PostalCode>
+      <City>Grootebroek</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009425</ExternalId>
+      <Street>Kramerstraat 41</Street>
+      <PostalCode>9731 ML</PostalCode>
+      <City>Groningen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008229</ExternalId>
+      <Street>Marisbaan 31</Street>
+      <PostalCode>5985 NA</PostalCode>
+      <City>Grashoek</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00655</ExternalId>
+      <Street>Wielewaalstraat 30</Street>
+      <PostalCode>2802 EC</PostalCode>
+      <City>Gouda</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002267</ExternalId>
+      <Street>Hazeloop 1</Street>
+      <PostalCode>7213 BJ</PostalCode>
+      <City>Gorssel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009911</ExternalId>
+      <Street>Korte Slagenstraat 12</Street>
+      <PostalCode>4205 BT</PostalCode>
+      <City>Gorinchem</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007839</ExternalId>
+      <Street>Langenboomstraat 10</Street>
+      <PostalCode>5051 BG</PostalCode>
+      <City>Goirle</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007736</ExternalId>
+      <Street>Meierstraat 23</Street>
+      <PostalCode>5126 BS</PostalCode>
+      <City>Gilze</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009833</ExternalId>
+      <Street>Klaas Benninkstraat 3</Street>
+      <PostalCode>8281 ZV</PostalCode>
+      <City>Genemuiden</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006165</ExternalId>
+      <Street>Meester Jansplein 12</Street>
+      <PostalCode>5862 AJ</PostalCode>
+      <City>Geijsteren</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006278</ExternalId>
+      <Street>Marten Oostwoudstraat 47</Street>
+      <PostalCode>8801 GC</PostalCode>
+      <City>Franeker</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007576</ExternalId>
+      <Street>Pijlhovestraat 27</Street>
+      <PostalCode>7521 VS</PostalCode>
+      <City>Enschede</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004113</ExternalId>
+      <Street>Zilverstraat 1</Street>
+      <PostalCode>1601 KS</PostalCode>
+      <City>Enkhuizen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006396</ExternalId>
+      <Street>Nolsstraat 4</Street>
+      <PostalCode>7814 RD</PostalCode>
+      <City>Emmen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003435</ExternalId>
+      <Street>Bourgondiëstraat 13</Street>
+      <PostalCode>8303 GW</PostalCode>
+      <City>Emmeloord</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006406</ExternalId>
+      <Street>Lingestraat 7</Street>
+      <PostalCode>6662 NN</PostalCode>
+      <City>Elst</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008931</ExternalId>
+      <Street>Andriessenstraat 6</Street>
+      <PostalCode>5654 KE</PostalCode>
+      <City>Eindhoven</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002899</ExternalId>
+      <Street>Bildersstraat 1</Street>
+      <PostalCode>6717 NC</PostalCode>
+      <City>Ede</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003659</ExternalId>
+      <Street>Haagbeukstraat 19</Street>
+      <PostalCode>6101 DZ</PostalCode>
+      <City>Echt</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005249</ExternalId>
+      <Street>Willem Elsschotstraat 16</Street>
+      <PostalCode>5103 PM</PostalCode>
+      <City>Dongen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004803</ExternalId>
+      <Street>Fokkestraat 18</Street>
+      <PostalCode>8251 BX</PostalCode>
+      <City>Dronten</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009217</ExternalId>
+      <Street>Eijkhovenstraat 3</Street>
+      <PostalCode>6621 ZT</PostalCode>
+      <City>Dreumel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001215</ExternalId>
+      <Street>H.B.S.-straat 21</Street>
+      <PostalCode>9201 KR</PostalCode>
+      <City>Drachten</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002023</ExternalId>
+      <Street>Oranjestraat 4</Street>
+      <PostalCode>7091 XT</PostalCode>
+      <City>Dinxperlo</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008689</ExternalId>
+      <Street>Schermhorst 105</Street>
+      <PostalCode>7009 LM</PostalCode>
+      <City>Doetinchem</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009342</ExternalId>
+      <Street>Koepoortstraat 29 - 31</Street>
+      <PostalCode>6981 AR</PostalCode>
+      <City>Doesburg</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00796</ExternalId>
+      <Street>Heuvelstraat 10</Street>
+      <PostalCode>5751 HN</PostalCode>
+      <City>Deurne</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005247</ExternalId>
+      <Street>Galjoenstraat 23</Street>
+      <PostalCode>1784 RB</PostalCode>
+      <City>Den Helder</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002806</ExternalId>
+      <Street>Puttensestraat 18</Street>
+      <PostalCode>2583 PB</PostalCode>
+      <City>Den Haag</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004800</ExternalId>
+      <Street>Gouverneur Holvoetstraat 14</Street>
+      <PostalCode>5224 CC</PostalCode>
+      <City>Den Bosch</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001032</ExternalId>
+      <Street>Kruisstraat 75</Street>
+      <PostalCode>2611 ML</PostalCode>
+      <City>Delft</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001457</ExternalId>
+      <Street>Bruinleeuwstraat 7</Street>
+      <PostalCode>7721 AW</PostalCode>
+      <City>Dalfsen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004013</ExternalId>
+      <Street>Oostriksweg 8</Street>
+      <PostalCode>7429 AA</PostalCode>
+      <City>Colmschate</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006140</ExternalId>
+      <Street>Rosa Spierstraat 23</Street>
+      <PostalCode>1902 MH</PostalCode>
+      <City>Castricum</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005434</ExternalId>
+      <Street>Knokkertweg 6</Street>
+      <PostalCode>4506 HN</PostalCode>
+      <City>Cadzand</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.003081</ExternalId>
+      <Street>Haagsestraat 60</Street>
+      <PostalCode>5431 BN</PostalCode>
+      <City>Cuijk</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009160</ExternalId>
+      <Street>Frisiasingel 29</Street>
+      <PostalCode>9251 HM</PostalCode>
+      <City>Burgum</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006264</ExternalId>
+      <Street>Heiligenbergstraat 19</Street>
+      <PostalCode>6241 DG</PostalCode>
+      <City>Bunde</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005993</ExternalId>
+      <Street>Gildestraat 9</Street>
+      <PostalCode>1401 TS</PostalCode>
+      <City>Bussum</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004116</ExternalId>
+      <Street>Onderstraat 2</Street>
+      <PostalCode>7226 LD</PostalCode>
+      <City>Bronkhorst</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004180</ExternalId>
+      <Street>Ambachtstraat 14</Street>
+      <PostalCode>7622 AP</PostalCode>
+      <City>Borne</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001933</ExternalId>
+      <Street>Bakelgeertstraat 6</Street>
+      <PostalCode>5831 CT</PostalCode>
+      <City>Boxmeer</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006527</ExternalId>
+      <Street>Bernhardstraat 6</Street>
+      <PostalCode>6657 AE</PostalCode>
+      <City>Boven-Leeuwen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008529</ExternalId>
+      <Street>Houtstraat 29</Street>
+      <PostalCode>1611 MB</PostalCode>
+      <City>Bovenkarspel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.001200</ExternalId>
+      <Street>Malusstraat 10</Street>
+      <PostalCode>7271 HV</PostalCode>
+      <City>Borculo</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00571</ExternalId>
+      <Street>Ericastraat 38</Street>
+      <PostalCode>5531 CK</PostalCode>
+      <City>Bladel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005383</ExternalId>
+      <Street>Kerkakkersstraat 15</Street>
+      <PostalCode>5683 BM</PostalCode>
+      <City>Best</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008785</ExternalId>
+      <Street>Bosweg 14</Street>
+      <PostalCode>6571 CD</PostalCode>
+      <City>Berg en Dal</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00392</ExternalId>
+      <Street>Sint Antoniusstraat 27</Street>
+      <PostalCode>1861 LD</PostalCode>
+      <City>Bergen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006379</ExternalId>
+      <Street>Akkermuntstraat 15</Street>
+      <PostalCode>5571 KA</PostalCode>
+      <City>Bergeijk</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002327</ExternalId>
+      <Street>Brouwersstraat 38</Street>
+      <PostalCode>6658 AE</PostalCode>
+      <City>Beneden-Leeuwen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00355</ExternalId>
+      <Street>Plantsoenstraat 13</Street>
+      <PostalCode>9781 HE</PostalCode>
+      <City>Bedum</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005333</ExternalId>
+      <Street>Wilgenroosstraat 9</Street>
+      <PostalCode>5761 ES</PostalCode>
+      <City>Bakel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005638</ExternalId>
+      <Street>Korenbloemstraat 28</Street>
+      <PostalCode>5111 AH</PostalCode>
+      <City>Baarle-Nassau</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.00457</ExternalId>
+      <Street>Robertstraat 26</Street>
+      <PostalCode>4571 AT</PostalCode>
+      <City>Axel</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.005996</ExternalId>
+      <Street>Marsstraat 10</Street>
+      <PostalCode>9405 PJ</PostalCode>
+      <City>Assen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002506</ExternalId>
+      <Street>Veronicastraat 29</Street>
+      <PostalCode>6833 AS</PostalCode>
+      <City>Arnhem</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007389</ExternalId>
+      <Street>Clasinastraat 43</Street>
+      <PostalCode>4341 ER</PostalCode>
+      <City>Arnemuiden</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006920</ExternalId>
+      <Street>Thorbeckestraat 25</Street>
+      <PostalCode>7331 RH</PostalCode>
+      <City>Apeldoorn</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008260</ExternalId>
+      <Street>Venhuizenstraat 10</Street>
+      <PostalCode>1023 VG</PostalCode>
+      <City>Amsterdam</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004027</ExternalId>
+      <Street>Straat van Magelhaens 17</Street>
+      <PostalCode>1183 HB</PostalCode>
+      <City>Amstelveen</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.002020</ExternalId>
+      <Street>Dollardstraat 230</Street>
+      <PostalCode>3812 ES</PostalCode>
+      <City>Amersfoort</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.009669</ExternalId>
+      <Street>Baljuwstraat 10</Street>
+      <PostalCode>2405 ZA</PostalCode>
+      <City>Alphen aan den Rijn</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.006360</ExternalId>
+      <Street>Dwarsfluitstraat 17</Street>
+      <PostalCode>1312 PB</PostalCode>
+      <City>Almere</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.004694</ExternalId>
+      <Street>Magdalenenstraat 19 B</Street>
+      <PostalCode>1811 JR</PostalCode>
+      <City>Alkmaar</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.007479</ExternalId>
+      <Street>Torenweg 7</Street>
+      <PostalCode>9774 PH</PostalCode>
+      <City>Adorp</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+    <KVAddress>
+      <ExternalId>ADR.008148</ExternalId>
+      <Street>Sandbergstraat 15</Street>
+      <PostalCode>1391 EJ</PostalCode>
+      <City>Abcoude</City>
+      <Theme>Cities NL</Theme>
+    </KVAddress>
+  </Addresses>
+</XmlRequest>

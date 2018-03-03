@@ -1,0 +1,1066 @@
+<?xml version="1.0"?>
+<XmlRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Users>
+    <KVUser>
+      <ExternalId>USR.00836</ExternalId>
+      <Name>Abraham Simpson</Name>
+      <Username>grampa</Username>
+      <Description>Vader van Homer.</Description>
+      <Email>abrahamsimpson@mailelectric.net</Email>
+      <Telephone>019503742</Telephone>
+      <Nickname>Grampa</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00207</ExternalId>
+      <Name>Agnes Skinner</Name>
+      <Username>askinner</Username>
+      <Description>Moeder van Seymour Skinner.</Description>
+      <Email>askinner@mailelectric.net</Email>
+      <Telephone>038821878</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00181</ExternalId>
+      <Name>Akira</Name>
+      <Username>akira</Username>
+      <Description>Werkt bij Happy Sumo en is karate leraar.</Description>
+      <Email />
+      <Telephone>014793108</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00205</ExternalId>
+      <Name>Allison Taylor</Name>
+      <Username>taylor</Username>
+      <Description>Vriendin van Lisa.</Description>
+      <Email>a.taylor@wiremail.cc</Email>
+      <Telephone>018380773</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00410</ExternalId>
+      <Name>Apu Nahasapeemapetilon</Name>
+      <Username>anahasapeemapetilon</Username>
+      <Description>Eigenaar van de Kwik-E-Mart.</Description>
+      <Email>apunahasapeemapetilon@mailbox.net</Email>
+      <Telephone>075220837</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00467</ExternalId>
+      <Name>Aristotle Amadopolis</Name>
+      <Username>amadopolis</Username>
+      <Description>Eigenaar van de Shelbyville kerncentrale.</Description>
+      <Email>a.amadopolis@post.com</Email>
+      <Telephone>014288988</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00867</ExternalId>
+      <Name>Artie Ziff</Name>
+      <Username>ziff</Username>
+      <Description>Voormalig software miljardair.</Description>
+      <Email>aziff@post.com</Email>
+      <Telephone>003110373467</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00950</ExternalId>
+      <Name>Bart Simpson</Name>
+      <Username>simpson1</Username>
+      <Description />
+      <Email>bsimpson@mail.me</Email>
+      <Telephone>003117408400</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00323</ExternalId>
+      <Name>Bernard Gumble</Name>
+      <Username>barney</Username>
+      <Description>Vaste klant van Moe en een goede vriend van Homer.</Description>
+      <Email>bernardgumble@posthoorn.com</Email>
+      <Telephone>019785015</Telephone>
+      <Nickname>Barney</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00168</ExternalId>
+      <Name>Barry Huffman</Name>
+      <Username>duffman</Username>
+      <Description>Mascotte van de "Duffbrouwerij".</Description>
+      <Email>barryhuffman@mailelectric.net</Email>
+      <Telephone>036441728</Telephone>
+      <Nickname>DuffMan</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00785</ExternalId>
+      <Name>Birchibald T. Barlow</Name>
+      <Username>birch</Username>
+      <Description>Radio presentator.</Description>
+      <Email>birchibald.barlow@posthoorn.com</Email>
+      <Telephone>016290287</Telephone>
+      <Nickname>Birch</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00719</ExternalId>
+      <Name>Brandine Spuckler</Name>
+      <Username>bspuckler</Username>
+      <Description>Vrouw en zus (of nichtje) van Cletus Spuckler.</Description>
+      <Email>b.spuckler@email.com</Email>
+      <Telephone>014149448</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0056</ExternalId>
+      <Name>Brenda Weingarten</Name>
+      <Username>bweingarten</Username>
+      <Description>Woont bij de Simpsons in de straat.</Description>
+      <Email>brendaweingarten@post.com</Email>
+      <Telephone>+3128702137</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00692</ExternalId>
+      <Name>Brunella Pommelhorst</Name>
+      <Username>pommelhorst</Username>
+      <Description>Gymlerares.</Description>
+      <Email>brunellapommelhorst@post.com</Email>
+      <Telephone>038744167</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00725</ExternalId>
+      <Name>Bumblebee Man</Name>
+      <Username>man</Username>
+      <Description>Mexicaanse komiek.</Description>
+      <Email>b.man@cmail.com</Email>
+      <Telephone>+3122681382</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00972</ExternalId>
+      <Name>Horatio McCallister</Name>
+      <Username>mccallister</Username>
+      <Description>Zeeman, zegt vaak "Arrr!".</Description>
+      <Email>hmccallister@mail.me</Email>
+      <Telephone>051234911</Telephone>
+      <Nickname>Captain McCallister</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00945</ExternalId>
+      <Name>Carl Carlson</Name>
+      <Username>one</Username>
+      <Description>Collega van Homer.</Description>
+      <Email>c.carlson@cmail.com</Email>
+      <Telephone>+3119809883</Telephone>
+      <Nickname>the black one</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00136</ExternalId>
+      <Name>Cecil Terwilliger</Name>
+      <Username>terwilliger</Username>
+      <Description>Broer van Robert Terwilliger.</Description>
+      <Email>cecilterwilliger@mailbox.net</Email>
+      <Telephone>071869024</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0091</ExternalId>
+      <Name>Charles Montgomery Burns</Name>
+      <Username>burns</Username>
+      <Description>Eigenaar van de Springfield kerncentrale.</Description>
+      <Email>charles.burns@posthoorn.com</Email>
+      <Telephone>045536935</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00772</ExternalId>
+      <Name>Chester Turley</Name>
+      <Username>jailbird</Username>
+      <Description>Crimineel die geregeld Kwik-E-Mart overvalt.</Description>
+      <Email>chester.turley@mail.me</Email>
+      <Telephone>003116217538</Telephone>
+      <Nickname>Snake Jailbird</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00349</ExternalId>
+      <Name>Chief Clancy Wiggum</Name>
+      <Username>cwiggum</Username>
+      <Description>Corrupte hoofd van het politiekorps.</Description>
+      <Email>chiefwiggum@post.com</Email>
+      <Telephone>+3117724332</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00675</ExternalId>
+      <Name>Cletus Del Roy Spuckler</Name>
+      <Username>spuckler</Username>
+      <Description>Stereotiepe hillbilly boer.</Description>
+      <Email>cletus.spuckler@cmail.com</Email>
+      <Telephone>+3139919001</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00868</ExternalId>
+      <Name>Constance Harm</Name>
+      <Username>harm</Username>
+      <Description>Harde maar rechtvaardige rechter.</Description>
+      <Email>constance.harm@email.com</Email>
+      <Telephone>+3116981354</Telephone>
+      <Nickname>Judge Harm</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00133</ExternalId>
+      <Name>Cookie Kwan</Name>
+      <Username>kwan</Username>
+      <Description>Aziatische zakenvrouw.</Description>
+      <Email>cookiekwan@mailelectric.net</Email>
+      <Telephone>091201076</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00670</ExternalId>
+      <Name>Dave Shutton</Name>
+      <Username>shutton</Username>
+      <Description>Verslaggever.</Description>
+      <Email>shuttond@email.com</Email>
+      <Telephone>+3116691183</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00443</ExternalId>
+      <Name>Declan Desmond</Name>
+      <Username>desmond</Username>
+      <Description>Excentrieke documentairemaker.</Description>
+      <Email>declan.desmond@mail.me</Email>
+      <Telephone>+3118847431</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00101</ExternalId>
+      <Name>Dewey Largo</Name>
+      <Username>largo</Username>
+      <Description>Muziekleraar.</Description>
+      <Email>largod@cmail.com</Email>
+      <Telephone>+3113779152</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00767</ExternalId>
+      <Name>Discothèque Stuart</Name>
+      <Username>stu</Username>
+      <Description>Door disco geobsedeerde man.</Description>
+      <Email>dstuart@email.com</Email>
+      <Telephone>055222246</Telephone>
+      <Nickname>Disco Stu</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0098</ExternalId>
+      <Name>Doris Freedman</Name>
+      <Username>doris</Username>
+      <Description>Kantinejuffrouw.</Description>
+      <Email>dorisfreedman@mailelectric.net</Email>
+      <Telephone>012360176</Telephone>
+      <Nickname>Lunch Lady Doris</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00103</ExternalId>
+      <Name>Dr. J. Loren Pryor</Name>
+      <Username>pryor</Username>
+      <Description>Schoolpsycholoog.</Description>
+      <Email>dr..pryor@posthoorn.com</Email>
+      <Telephone>003178403019</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00463</ExternalId>
+      <Name>Dr. Julius Hibbert</Name>
+      <Username>hibbert</Username>
+      <Description>Dokter van de Simpsons.</Description>
+      <Email>d.hibbert@mailbox.net</Email>
+      <Telephone>073054346</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00199</ExternalId>
+      <Name>Dr. Nick Riviera</Name>
+      <Username>riviera</Username>
+      <Description>Kwakzalver die veel fouten maakt.</Description>
+      <Email>d.riviera@mailbox.net</Email>
+      <Telephone>018273101</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00523</ExternalId>
+      <Name>Dr. Marvin Monroe</Name>
+      <Username>monroe</Username>
+      <Description>Pseudowetenschapper en psychiater met een erg rasperige stem.</Description>
+      <Email>dmonroe@email.com</Email>
+      <Telephone>+3135557089</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00162</ExternalId>
+      <Name>Dr. Velimirovic</Name>
+      <Username>velimirovic</Username>
+      <Description>Plastisch chirurg.</Description>
+      <Email>dvelimirovic@wiremail.cc</Email>
+      <Telephone>093007107</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00657</ExternalId>
+      <Name>Drederick Tatum</Name>
+      <Username>tatum</Username>
+      <Description>Weinig snuggere bokser.</Description>
+      <Email>drederick.tatum@posthoorn.com</Email>
+      <Telephone>013716364</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00418</ExternalId>
+      <Name>Edna Krabappel-Flanders</Name>
+      <Username>krabappel-flanders</Username>
+      <Description>Lerares van Bart.</Description>
+      <Email>ekrabappel-flanders@email.com</Email>
+      <Telephone>055000011</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00880</ExternalId>
+      <Name>Elizabeth Hoover</Name>
+      <Username>hoover</Username>
+      <Description>Ongeïnteresseerde lerares van Lisa.</Description>
+      <Email>elizabeth.hoover@post.com</Email>
+      <Telephone>042996172</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.004</ExternalId>
+      <Name>Franklin A. Grimes</Name>
+      <Username>grimey</Username>
+      <Description>Voormalig collega van Homer.</Description>
+      <Email>f.grimes@mail.me</Email>
+      <Telephone>003119489515</Telephone>
+      <Nickname>Grimey</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0017</ExternalId>
+      <Name>Frankie the Squealer</Name>
+      <Username>squealer</Username>
+      <Description>Informant van Fat Tony.</Description>
+      <Email>frankie.squealer@cmail.com</Email>
+      <Telephone>012576777</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0044</ExternalId>
+      <Name>Gary Chalmers</Name>
+      <Username>chalmers</Username>
+      <Description>Schoolopzichter.</Description>
+      <Email>g.chalmers@posthoorn.com</Email>
+      <Telephone>089948218</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00324</ExternalId>
+      <Name>God</Name>
+      <Username>god</Username>
+      <Description>De almachtige.</Description>
+      <Email />
+      <Telephone>003111959941</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.008</ExternalId>
+      <Name>Gil Gunderson</Name>
+      <Username>gil</Username>
+      <Description>Erg onzekere en depressieve man.</Description>
+      <Email>gilgunderson@cmail.com</Email>
+      <Telephone>+3181140522</Telephone>
+      <Nickname>Ol' Gil</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00804</ExternalId>
+      <Name>William MacDougal III</Name>
+      <Username>willie</Username>
+      <Description>Conciërge van de school.</Description>
+      <Email>william.iii@wiremail.cc</Email>
+      <Telephone>099917075</Telephone>
+      <Nickname>Groundskeeper Willie</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00930</ExternalId>
+      <Name>Hank Scorpio</Name>
+      <Username>scorpio</Username>
+      <Description>Duistere vriend van Homer.</Description>
+      <Email>h.scorpio@cmail.com</Email>
+      <Telephone>018582556</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00649</ExternalId>
+      <Name>Hans Moleman</Name>
+      <Username>moleman</Username>
+      <Description>Alcoholische man met een grotesk uiterlijk.</Description>
+      <Email>hansmoleman@cmail.com</Email>
+      <Telephone>015548761</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00149</ExternalId>
+      <Name>Hans Sprungfeld</Name>
+      <Username>springfield</Username>
+      <Description>Stichter van Springfield.</Description>
+      <Email>hanssprungfeld@mailelectric.net</Email>
+      <Telephone>011650954</Telephone>
+      <Nickname>Jebediah Springfield</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00630</ExternalId>
+      <Name>Helen Lovejoy</Name>
+      <Username>hlovejoy</Username>
+      <Description>Vrouw van Reverend Lovejoy.</Description>
+      <Email>helen.lovejoy@wiremail.cc</Email>
+      <Telephone>028112690</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00258</ExternalId>
+      <Name>Herbert Powell</Name>
+      <Username>herb</Username>
+      <Description>Halfbroer van Homer.</Description>
+      <Email>herbert.powell@email.com</Email>
+      <Telephone>003115030338</Telephone>
+      <Nickname>Herb</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00310</ExternalId>
+      <Name>Herschel Krustofsky</Name>
+      <Username>krusty</Username>
+      <Description>Clown met tv show.</Description>
+      <Email>hkrustofsky@cmail.com</Email>
+      <Telephone>003121271467</Telephone>
+      <Nickname>Krusty</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00371</ExternalId>
+      <Name>Homer Simpson</Name>
+      <Username>simpson2</Username>
+      <Description />
+      <Email>simpsonh@mail.me</Email>
+      <Telephone>003120432157</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00198</ExternalId>
+      <Name>Jacqueline Bouvier</Name>
+      <Username>jbouvier</Username>
+      <Description>Moeder van Marge.</Description>
+      <Email>jacquelinebouvier@email.com</Email>
+      <Telephone>010574350</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00599</ExternalId>
+      <Name>Jasper Beardley</Name>
+      <Username>beardley</Username>
+      <Description>Beste vriend van Abraham Simpson.</Description>
+      <Email>jasperbeardley@mailbox.net</Email>
+      <Telephone>011100798</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00637</ExternalId>
+      <Name>Jeremy Freedman</Name>
+      <Username>teen</Username>
+      <Description>Jongere wiens stem altijd overslaat.</Description>
+      <Email>jeremyfreedman@posthoorn.com</Email>
+      <Telephone>014303002</Telephone>
+      <Nickname>Squeaky Voiced Teen</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00491</ExternalId>
+      <Name>Jonathan Schmallippe</Name>
+      <Username>tightlips</Username>
+      <Description>Handlanger van Fat Tony.</Description>
+      <Email>schmallippej@cmail.com</Email>
+      <Telephone>013065076</Telephone>
+      <Nickname>Johnny Tightlips</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00220</ExternalId>
+      <Name>Johnathan Frink</Name>
+      <Username>frink</Username>
+      <Description>Gekke professor.</Description>
+      <Email>jfrink@cmail.com</Email>
+      <Telephone>003117341233</Telephone>
+      <Nickname>Professor Frink</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00160</ExternalId>
+      <Name>Joseph Quimby jr.</Name>
+      <Username>quimby</Username>
+      <Description>Corrupte burgemeester.</Description>
+      <Email>j.jr@email.com</Email>
+      <Telephone>015754592</Telephone>
+      <Nickname>Joe Quimby</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00338</ExternalId>
+      <Name>Kent Brockman</Name>
+      <Username>brockman</Username>
+      <Description>Plaatselijke nieuwslezer.</Description>
+      <Email>k.brockman@mailelectric.net</Email>
+      <Telephone>083668940</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00733</ExternalId>
+      <Name>Kirk Van Houten</Name>
+      <Username>khouten</Username>
+      <Description>Vader van Milhouse.</Description>
+      <Email>houtenk@wiremail.cc</Email>
+      <Telephone>003132279536</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00535</ExternalId>
+      <Name>Lance Murdock</Name>
+      <Username>murdock</Username>
+      <Description>Stuntman.</Description>
+      <Email>l.murdock@cmail.com</Email>
+      <Telephone>+3169363225</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00966</ExternalId>
+      <Name>Laura Powers</Name>
+      <Username>lpowers</Username>
+      <Description>Dochter van Ruth Powers.</Description>
+      <Email>laurapowers@email.com</Email>
+      <Telephone>011640909</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00365</ExternalId>
+      <Name>Lenford Leonard</Name>
+      <Username>lenny</Username>
+      <Description>Vriend en collega van Homer.</Description>
+      <Email>leonardl@wiremail.cc</Email>
+      <Telephone>014909143</Telephone>
+      <Nickname>Lenny</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0099</ExternalId>
+      <Name>Lionel Hutz</Name>
+      <Username>hutz</Username>
+      <Description>Louche advocaat.</Description>
+      <Email>l.hutz@wiremail.cc</Email>
+      <Telephone>+3116703393</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00852</ExternalId>
+      <Name>Lindsey Naegle</Name>
+      <Username>naegle</Username>
+      <Description>Zakenvrouw met vaak dubieuze plannen.</Description>
+      <Email>naeglel@wiremail.cc</Email>
+      <Telephone>032211513</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00219</ExternalId>
+      <Name>Ling Bouvier</Name>
+      <Username>lbouvier</Username>
+      <Description>Chinese, geadopteerde dochter van Selma Bouvier.</Description>
+      <Email>ling.bouvier@wiremail.cc</Email>
+      <Telephone>003163221755</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00705</ExternalId>
+      <Name>Lisa Simpson</Name>
+      <Username>simpson3</Username>
+      <Description />
+      <Email>l.simpson@cmail.com</Email>
+      <Telephone>092277340</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00586</ExternalId>
+      <Name>Luann Van Houten</Name>
+      <Username>lhouten</Username>
+      <Description>Moeder van Milhouse.</Description>
+      <Email>lhouten@email.com</Email>
+      <Telephone>019898760</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00196</ExternalId>
+      <Name>Lucius Sweet</Name>
+      <Username>sweet</Username>
+      <Description>Manager van Drederick Tatum.</Description>
+      <Email>lucius.sweet@mailelectric.net</Email>
+      <Telephone>012679098</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0094</ExternalId>
+      <Name>Lugash</Name>
+      <Username>coach</Username>
+      <Description>Gymnastiekleraar.</Description>
+      <Email />
+      <Telephone>021300109</Telephone>
+      <Nickname>Coach</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0034</ExternalId>
+      <Name>Luigi Risotto</Name>
+      <Username>risotto</Username>
+      <Description>Italiaanse restauranteigenaar.</Description>
+      <Email>lrisotto@wiremail.cc</Email>
+      <Telephone>+3110906127</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00306</ExternalId>
+      <Name>Lurleen Lumpkin</Name>
+      <Username>lumpkin</Username>
+      <Description>Country muzikant.</Description>
+      <Email>l.lumpkin@wiremail.cc</Email>
+      <Telephone>003111111804</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0092</ExternalId>
+      <Name>Maggie Simpson</Name>
+      <Username>simpson4</Username>
+      <Description />
+      <Email>msimpson@cmail.com</Email>
+      <Telephone>013032251</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00940</ExternalId>
+      <Name>Manjula Nahasapeemapetilon</Name>
+      <Username>mnahasapeemapetilon</Username>
+      <Description>Vrouw van Apu Nahasapeemapetilon.</Description>
+      <Email>manjulanahasapeemapetilon@cmail.com</Email>
+      <Telephone>085875738</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00119</ExternalId>
+      <Name>Marge Simpson</Name>
+      <Username>simpson5</Username>
+      <Description />
+      <Email>margesimpson@mailelectric.net</Email>
+      <Telephone>060506138</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0047</ExternalId>
+      <Name>Marion Anthony D'Amico</Name>
+      <Username>tony</Username>
+      <Description>Maffiabaas.</Description>
+      <Email>marion.d'amico@posthoorn.com</Email>
+      <Telephone>+3129992010</Telephone>
+      <Nickname>William Williams/Fat Tony</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00448</ExternalId>
+      <Name>Martin Prince</Name>
+      <Username>prince</Username>
+      <Description>Hoogbegaafde klasgenoot van Bart.</Description>
+      <Email>martinprince@wiremail.cc</Email>
+      <Telephone>019276525</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00922</ExternalId>
+      <Name>Mary Bailey</Name>
+      <Username>bailey</Username>
+      <Description>Gouverneur van Springfield.</Description>
+      <Email>marybailey@mailelectric.net</Email>
+      <Telephone>003117212471</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00870</ExternalId>
+      <Name>Melvin Van Horne</Name>
+      <Username>mel</Username>
+      <Description>Krusty's sidekick.</Description>
+      <Email>melvin.horne@wiremail.cc</Email>
+      <Telephone>003113668045</Telephone>
+      <Nickname>Sideshow Mel</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00938</ExternalId>
+      <Name>Milhouse Mussolini Van Houten</Name>
+      <Username>houten</Username>
+      <Description>Vriendje van Bart.</Description>
+      <Email>houtenm@mailbox.net</Email>
+      <Telephone>011530184</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00484</ExternalId>
+      <Name>Morris Szyslak</Name>
+      <Username>moe</Username>
+      <Description>Eigenaar van Homers stamcafé: Moe's Tavern.</Description>
+      <Email>morrisszyslak@mailbox.net</Email>
+      <Telephone>+3131142322</Telephone>
+      <Nickname>Moe</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00520</ExternalId>
+      <Name>Mona Simpson</Name>
+      <Username>simpson6</Username>
+      <Description>Moeder van Homer.</Description>
+      <Email>mona.simpson@post.com</Email>
+      <Telephone>020072762</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00812</ExternalId>
+      <Name>Louis Toot</Name>
+      <Username>teeny</Username>
+      <Description>Krusty's getrainde aap.</Description>
+      <Email>l.toot@mailbox.net</Email>
+      <Telephone>+3133918114</Telephone>
+      <Nickname>Mr. Teeny</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00843</ExternalId>
+      <Name>Ms. Albright</Name>
+      <Username>albright</Username>
+      <Description>Zondagschool lerares.</Description>
+      <Email>ms.albright@mail.me</Email>
+      <Telephone>017681825</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00457</ExternalId>
+      <Name>Murphy Kenneth Hibbert</Name>
+      <Username>murphy</Username>
+      <Description>Zwarte jazzsaxofonist.</Description>
+      <Email>murphy.hibbert@mail.me</Email>
+      <Telephone>+3188777453</Telephone>
+      <Nickname>Bleeding Gums Murphy</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00234</ExternalId>
+      <Name>Nedward Flanders</Name>
+      <Username>ned</Username>
+      <Description>Extreem christelijke buurman van de Simpsons.</Description>
+      <Email>nedwardflanders@wiremail.cc</Email>
+      <Telephone>095194955</Telephone>
+      <Nickname>Ned</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00905</ExternalId>
+      <Name>Nelson Muntz</Name>
+      <Username>muntz</Username>
+      <Description>Pestkop op Barts school.</Description>
+      <Email>n.muntz@post.com</Email>
+      <Telephone>071323214</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00863</ExternalId>
+      <Name>Otto Mann</Name>
+      <Username>mann</Username>
+      <Description>Schoolbuschauffeur van Springfield Elementary School.</Description>
+      <Email>omann@post.com</Email>
+      <Telephone>003117342052</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00328</ExternalId>
+      <Name>Patricia Bouvier</Name>
+      <Username>patty</Username>
+      <Description>Zus van Marge.</Description>
+      <Email>patricia.bouvier@email.com</Email>
+      <Telephone>+3132213266</Telephone>
+      <Nickname>Patty</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0031</ExternalId>
+      <Name>Rabbi Hyman Krustofski</Name>
+      <Username>krustofski</Username>
+      <Description>Vader van Krusty.</Description>
+      <Email>rabbi.krustofski@mailbox.net</Email>
+      <Telephone>+3173758020</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00941</ExternalId>
+      <Name>Rachel Jordan</Name>
+      <Username>jordan</Username>
+      <Description>Christelijke zangeres.</Description>
+      <Email>rjordan@post.com</Email>
+      <Telephone>093633626</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00496</ExternalId>
+      <Name>Rainier Luftwaffe Wolfcastle</Name>
+      <Username>wolfcastle</Username>
+      <Description>Oostenrijkse filmacteur.</Description>
+      <Email>wolfcastler@post.com</Email>
+      <Telephone>003173353808</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0080</ExternalId>
+      <Name>Raphael Wiggum</Name>
+      <Username>ralph</Username>
+      <Description>Zoon van Clancy Wiggum.</Description>
+      <Email>rwiggum@mailelectric.net</Email>
+      <Telephone>003118008103</Telephone>
+      <Nickname>Ralph</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00833</ExternalId>
+      <Name>Richard Texan</Name>
+      <Username>texan</Username>
+      <Description>Texaanse oliemiljardair.</Description>
+      <Email>texanr@posthoorn.com</Email>
+      <Telephone>+3154682854</Telephone>
+      <Nickname>The Rich Texan</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00469</ExternalId>
+      <Name>Robert Underdunk Terwilliger</Name>
+      <Username>bob</Username>
+      <Description>Voormalig hulpje van Krusty.</Description>
+      <Email>terwilligerr@post.com</Email>
+      <Telephone>+3121077922</Telephone>
+      <Nickname>Sideshow Bob</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0050</ExternalId>
+      <Name>Rodney Flanders</Name>
+      <Username>rod</Username>
+      <Description>Zoon van Ned Flanders.</Description>
+      <Email>r.flanders@cmail.com</Email>
+      <Telephone>016549449</Telephone>
+      <Nickname>Rod</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00678</ExternalId>
+      <Name>Roy Snyder</Name>
+      <Username>snyder</Username>
+      <Description>Milde rechter.</Description>
+      <Email>snyderr@post.com</Email>
+      <Telephone>013974982</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00224</ExternalId>
+      <Name>Ruth Powers</Name>
+      <Username>powers</Username>
+      <Description>Buurvrouw van de Simpsons.</Description>
+      <Email>ruth.powers@posthoorn.com</Email>
+      <Telephone>003110502920</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00156</ExternalId>
+      <Name>Sanjay Nahasapeemapetilon</Name>
+      <Username>nahasapeemapetilon</Username>
+      <Description>Broer van Apu Nahasapeemapetilon.</Description>
+      <Email>snahasapeemapetilon@posthoorn.com</Email>
+      <Telephone>076970486</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00585</ExternalId>
+      <Name>Sarah Wiggum</Name>
+      <Username>wiggum</Username>
+      <Description>Vrouw van Clancy Wiggum.</Description>
+      <Email>s.wiggum@mailbox.net</Email>
+      <Telephone>+3118360745</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00225</ExternalId>
+      <Name>Scott Christian</Name>
+      <Username>christian</Username>
+      <Description>Nieuwslezer.</Description>
+      <Email>schristian@mail.me</Email>
+      <Telephone>058184571</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0062</ExternalId>
+      <Name>Scott Weingarten</Name>
+      <Username>weingarten</Username>
+      <Description>Woont bij de Simpsons in de straat.</Description>
+      <Email>s.weingarten@post.com</Email>
+      <Telephone>+3120844182</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00953</ExternalId>
+      <Name>Selma Bouvier</Name>
+      <Username>bouvier</Username>
+      <Description>Zus van Marge.</Description>
+      <Email>selma.bouvier@mailelectric.net</Email>
+      <Telephone>003114077015</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00536</ExternalId>
+      <Name>(Walter) Seymour Skinner</Name>
+      <Username>skinner</Username>
+      <Description>Directeur van de plaatselijke school.</Description>
+      <Email>walterskinner@wiremail.cc</Email>
+      <Telephone>010196189</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00223</ExternalId>
+      <Name>Shary Bobbins</Name>
+      <Username>bobbins</Username>
+      <Description>Babysitter.</Description>
+      <Email>shary.bobbins@wiremail.cc</Email>
+      <Telephone>012389777</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.003</ExternalId>
+      <Name>Shauna Tifton</Name>
+      <Username>flowers</Username>
+      <Description>Buikdanseres.</Description>
+      <Email>shaunatifton@email.com</Email>
+      <Telephone>003137170097</Telephone>
+      <Nickname>Princess Kashmir/April Flowers</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00771</ExternalId>
+      <Name>Sideshow Raheem</Name>
+      <Username>raheem</Username>
+      <Description>Hulpje van Krusty voor Bob.</Description>
+      <Email>sraheem@posthoorn.com</Email>
+      <Telephone>014123137</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00257</ExternalId>
+      <Name>Steve Mobbs</Name>
+      <Username>mobbs</Username>
+      <Description>Eigenaar van Mapple.</Description>
+      <Email>smobbs@mail.me</Email>
+      <Telephone>003116692808</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00480</ExternalId>
+      <Name>Sylvia Winfield</Name>
+      <Username>winfield</Username>
+      <Description>Voormalig buurvrouw van de Simpsons.</Description>
+      <Email>s.winfield@post.com</Email>
+      <Telephone>011854259</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00823</ExternalId>
+      <Name>Timothy Lovejoy</Name>
+      <Username>lovejoy</Username>
+      <Description>Dominee.</Description>
+      <Email>t.lovejoy@mail.me</Email>
+      <Telephone>003120936549</Telephone>
+      <Nickname>Rev. Lovejoy</Nickname>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0043</ExternalId>
+      <Name>Todd Flanders</Name>
+      <Username>flanders</Username>
+      <Description>Zoon van Ned Flanders.</Description>
+      <Email>t.flanders@cmail.com</Email>
+      <Telephone>+3143268166</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00298</ExternalId>
+      <Name>Troy McClure</Name>
+      <Username>mcclure</Username>
+      <Description>Mediageile televisieacteur.</Description>
+      <Email>troy.mcclure@mailbox.net</Email>
+      <Telephone>092259086</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00289</ExternalId>
+      <Name>Üter Zörker</Name>
+      <Username>zörker</Username>
+      <Description>Duitse uitwisselingsstudent.</Description>
+      <Email>u.zorker@mailelectric.net</Email>
+      <Telephone>003111937320</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00400</ExternalId>
+      <Name>Vance Connor</Name>
+      <Username>connor</Username>
+      <Description>Succesvolle zakenman.</Description>
+      <Email>vanceconnor@mailbox.net</Email>
+      <Telephone>+3111836417</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.00562</ExternalId>
+      <Name>Waylon Joseph Smithers</Name>
+      <Username>smithers</Username>
+      <Description>Assistent van Mr. Burns.</Description>
+      <Email>smithersw@mailbox.net</Email>
+      <Telephone>058271714</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+    <KVUser>
+      <ExternalId>USR.0014</ExternalId>
+      <Name>Wendell Borton</Name>
+      <Username>borton</Username>
+      <Description>Klasgenoot van Bart die vaak ziek is.</Description>
+      <Email>w.borton@wiremail.cc</Email>
+      <Telephone>003114419135</Telephone>
+      <Theme>The Simpsons</Theme>
+    </KVUser>
+  </Users>
+</XmlRequest>
